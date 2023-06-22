@@ -17,7 +17,7 @@
 __________________________________________________________________________________________________________________________
 
 Ноутбуки `.ipynb` и `.py` скрипты:
-01. [Реальные задачи](https://github.com/ArtyKrafty/Data_science_projects) 
+01. [Реальные проекты](https://github.com/ArtyKrafty/Data_science_projects) 
 02. [Kaggle](https://github.com/ArtyKrafty/Data_science_projects) 
 03. [Yandex Practicum](https://github.com/ArtyKrafty/Data_science_projects) 
 
@@ -25,8 +25,7 @@ ________________________________________________________________________________
 
 
 <p align="center">
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </p>
 
 <p align="center">
