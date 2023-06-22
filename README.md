@@ -16,9 +16,9 @@
 __________________________________________________________________________________________________________________________
 
 Ноутбуки `.ipynb` и `.py` скрипты:
-01. [Реальные проекты](https://github.com/ArtyKrafty/Data_science_projects) 
-02. [Kaggle](https://github.com/ArtyKrafty/Data_science_projects) 
-03. [Yandex Practicum](https://github.com/ArtyKrafty/Data_science_projects) 
+01. [Реальные проекты](https://github.com/YotaInGame/Real_Project) 
+02. [Kaggle](https://github.com/YotaInGame/Kaggle) 
+03. [Yandex Practicum](https://github.com/YotaInGame/Yandex_Practicum)
 
 
 
