@@ -7,7 +7,7 @@
 <p align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src='https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student'> </p>
 
 <p align="center">
-  [<a href="https://www.kaggle.com/artemsolomko"><img src='https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white'></a>](https://github.com/YotaInGame/certificates)
+  <a href="https://github.com/YotaInGame/certificate">Сертификаты</a>
   <a href="https://www.codewars.com/users/YotaInGame"><img src="https://www.codewars.com/users/YotaInGame/badges/micro"></a>
 </p>
 
