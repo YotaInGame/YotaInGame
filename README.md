@@ -8,8 +8,7 @@
 
 <p align="center">
   <a href="https://www.kaggle.com/artemsolomko"><img src='https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white'></a>
-  <a href="https://leetcode.com/artysolomko/"><img src='https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black'></a>
-  
+  [![codewars](https://www.codewars.com/users/YotaInGame/badges/micro)](https://www.codewars.com/users/YotaInGame) 
 </p>
 
 <p align="center"> <a href="https://github.com/ArtyKrafty/Data_science_projects/tree/main/certificates">Сертификаты о прохождении курсов</a></p>
