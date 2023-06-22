@@ -8,6 +8,8 @@
 
 <p align="center">
   <a href="https://github.com/YotaInGame/certificate">Сертификаты</a>
+</p>  
+<p align="center">
   <a href="https://www.codewars.com/users/YotaInGame"><img src="https://www.codewars.com/users/YotaInGame/badges/micro"></a>
 </p>
 
