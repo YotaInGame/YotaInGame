@@ -34,16 +34,6 @@ ________________________________________________________________________________
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/miscellaneous libraries-blue">
-</p>
-
-
-
-<p align="center">
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=ArtyKrafty&show_icons=true&layout=compact&theme=tokyonight'/>
-</p>
-
 __________________________________________________________________________________________________________________________
 
 <p align="center"> Проекты Data Science. Deep learning </p align="center">
