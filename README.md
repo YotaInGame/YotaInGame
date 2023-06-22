@@ -17,29 +17,9 @@
 __________________________________________________________________________________________________________________________
 
 Ноутбуки `.ipynb` и `.py` скрипты:
-
-01. [Репозиторий - Проекты Data Science](https://github.com/ArtyKrafty/Data_science_projects)  
-02. [Репозиторий - Проекты Data Analyst](https://github.com/ArtyKrafty/Data_analyst_projects)  
-03. [Репозиторий - Алгоритмы и структуры данных](https://github.com/ArtyKrafty/Algorithms)
-
-Проекты-репозитории:
-
-01. [Репозиторий - Web-приложение для определения цены автомобиля](https://github.com/ArtyKrafty/CarPriceApp)
-02. [Репозиторий - OpenSource. Классы для отбора признаков и обработке DataFrame. PyPI проект](https://github.com/ArtyKrafty/featureselectors)
-03. [Репозиторий - Модульная обработка изображений с использованием OpenCV и генераторов Python с помощью Detectron2](https://github.com/ArtyKrafty/detection)
-04. [Развертывание Yandex Node](https://github.com/ArtyKrafty/yandex_node)
-
-
-
-__________________________________________________________________________________________________________________________
-
-**Привет**   
-
-
-Отображение некоторых элементов ограничено - рекомендую смотреть проекты через [External Viewer](https://nbviewer.jupyter.org/github/ArtyKrafty/Data_science_projects/tree/9d86c5514664c670c928edbb1eb0f857e62e4e5e/)   
-Для удобства, ссылки ведут сразу на данный сервис просмотра. Если нужны исходные файлы - переходи на соответствующий репозиторий
-
-
+01. [Реальные задачи](https://github.com/ArtyKrafty/Data_science_projects) 
+02. [Kaggle](https://github.com/ArtyKrafty/Data_science_projects) 
+03. [Yandex Practicum](https://github.com/ArtyKrafty/Data_science_projects) 
 
 __________________________________________________________________________________________________________________________
 
